@@ -27,6 +27,7 @@
 
 ​1. Data Acquisition
 ​I utilized the Web.Contents function in Power Query to connect to the API endpoint.
+
 2. Data Cleaning
 ​The raw API response was a nested JSON object. I performed the following:
 ​Expanded record columns to extract current and location data.
