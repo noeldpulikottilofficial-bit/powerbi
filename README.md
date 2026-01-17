@@ -1,6 +1,8 @@
 # powerbi
 ​🌦️ Real-Time Global Weather Dashboard
+
 ​Power BI | Weather API Integration | Data Visualization
+
 ​📌 Project Overview
 ​This project is a dynamic Power BI Dashboard that connects directly to a live Weather API to provide real-time atmospheric insights. Unlike static reports, this dashboard uses API authentication to fetch the latest weather data for any given location at the click of a button.
 ​The goal was to move beyond traditional Excel datasets and master Web Data Connectors and JSON transformation in Power Query.
